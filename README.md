@@ -1,4 +1,4 @@
-# ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
+# ![Логотип NeuroStartUp](C:\Users\foxy1\Desktop\git-2-homeworks-merge\img) NeuroStartUp
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
